@@ -17,4 +17,7 @@ List it down here
 Write key takeaways here
 
 ## References
-References are written here
+- [JavaScript Strings [W3Schools]](https://www.w3schools.com/js/js_strings.asp)
+- [JavaScript String Methods [W3Schools]](https://www.w3schools.com/js/js_string_methods.asp)
+- [JavaScript String Search [W3Schools]](https://www.w3schools.com/js/js_string_search.asp)
+- [JavaScript String Length [W3Schools]](https://www.w3schools.com/jsref/jsref_length_string.asp)
